@@ -1,0 +1,50 @@
+/* index.css */
+
+/* Set background color for the entire page */
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: verdana, sans-serif;
+}
+
+/* Center-align the header text */
+header {
+    text-align: center;
+}
+
+/* Style the main heading */
+h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+/* Style the subheading */
+p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+/* Add styles for each section */
+.posts,
+.events,
+.building,
+.music {
+    margin-bottom: 20px;
+    /* Add any additional styling specific to each section */
+}
+
+/* Customize link styles */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Add any other custom styles as needed */
+
+/* Example: Style the avatar image */
+.avatar {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    /* Add background image or source URL for the avatar */
+}
